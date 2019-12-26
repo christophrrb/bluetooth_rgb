@@ -1,3 +1,5 @@
+//Learned Bluetooth connection process from https://exploreembedded.com/wiki/Setting_up_Bluetooth_HC-05_with_Arduino
+
 #include <SoftwareSerial.h>
 SoftwareSerial EEBlue(8, 12); //RX | TX
 
